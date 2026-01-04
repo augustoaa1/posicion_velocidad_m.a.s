@@ -26,7 +26,7 @@ Donde:
 
 ---
 
-## 🔧 Posibles extensiones
+## Posibles extensiones
 
 Este proyecto está pensado como base para futuras mejoras, por ejemplo:
 
@@ -34,6 +34,6 @@ Este proyecto está pensado como base para futuras mejoras, por ejemplo:
 * Gráficos de posición y velocidad vs tiempo
 ---
 
-## 🎓 Motivación
+## Motivación
 
 Este repositorio forma parte de una serie de implementaciones de modelos físicos clásicos, con énfasis en claridad conceptual, buena escritura de código y separación entre modelo y presentación.
