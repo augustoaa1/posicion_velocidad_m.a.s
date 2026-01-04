@@ -3,7 +3,7 @@
 Este repositorio contiene una implementación sencilla y clara del Movimiento Armónico Simple (MAS) en Python, pensada con un enfoque educativo y científico. El objetivo es modelar las expresiones analíticas de la posición y la velocidad en función del tiempo.
 ---
 
-##Descripción física
+## Descripción física
 
 El Movimiento Armónico Simple describe el movimiento de un sistema que oscila alrededor de una posición de equilibrio bajo la acción de una fuerza restauradora proporcional al desplazamiento.
 
