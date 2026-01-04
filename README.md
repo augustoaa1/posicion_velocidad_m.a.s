@@ -9,16 +9,17 @@ El Movimiento Armónico Simple describe el movimiento de un sistema que oscila a
 
 Las expresiones analíticas utilizadas son:
 
-[ x(t) = A \sin(\omega t + \phi) ]
+ x(t) = A \sin(\omega t + \phi) 
 
-[ v(t) = \frac{dx}{dt} = -\omega A \cos(\omega t + \phi) ]
+ v(t) = \frac{dx}{dt} = -\omega A \cos(\omega t + \phi) 
+
 
 Donde:
 
-* **A** es la amplitud del movimiento
-* **(\omega)** es la frecuencia angular
-* **t** es el tiempo
-* **(\phi)** es la fase inicial
+* A es la amplitud del movimiento
+* (\omega) es la frecuencia angular
+* t es el tiempo
+* (\phi) es la fase inicial
 
 ---
 
